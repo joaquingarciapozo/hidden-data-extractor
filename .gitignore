@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Extractor output
+found_*
+hallazgo_*
